@@ -1,7 +1,7 @@
 # Analysis-and-Optimization-of-Appointment-Scheduling-from-Government
 
 **Problem Statement**
-Booking appointments through certain web portals can be tedious and time-consuming due to high demand and limited availability. Manually refreshing the page and checking for open slots can be inefficient and prone to human error. This script aims to solve this problem by:
+Booking appointments through certain web portals, for example, ServicePortal Berlin(https://service.berlin.de/dienstleistung/120686/), can be tedious and time-consuming due to high demand and limited availability. Manually refreshing the page and checking for open slots can be inefficient and prone to human error. This script aims to solve this problem by:
 
 **Completed Solutions**
 1. **Automated Navigation**: Automatically navigates to the appointment page.
