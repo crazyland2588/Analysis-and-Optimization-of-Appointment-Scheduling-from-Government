@@ -17,7 +17,7 @@ Booking appointments through certain web portals can be tedious and time-consumi
 3. **Success Rate Analysis**: Provides success rates for logins in each time slot.
 4. **Optimal Timing Recommendations**: Suggests best times to log in for increased chances of success.
 
-![Expected Diagram_Success Rate of Government Appointment Log-ins for Each Time Slot](https://github.com/crazyland2588/Analysis-and-Optimization-of-Appointment-Scheduling-from-Government/assets/171573249/64076fb8-ecd7-4d3e-ae16-5595fbd15c8f)
+![Expected Results of the Diagram_Success Rate of Government Appointment Log-ins for Each Time Slot](https://github.com/crazyland2588/Analysis-and-Optimization-of-Appointment-Scheduling-from-Government/assets/171573249/375afe13-e2b1-4d0e-8865-0aada8ed7529)
+<img width="1380" alt="截圖 2024-07-04 下午12 29 26" src="https://github.com/crazyland2588/Analysis-and-Optimization-of-Appointment-Scheduling-from-Government/assets/171573249/6136b3ae-8d25-44fe-a622-8e809b2d671c">
 
-<img width="1380" alt="截圖 2024-07-04 下午12 29 26" src="https://github.com/crazyland2588/Analysis-and-Optimization-of-Appointment-Scheduling-from-Government/assets/171573249/092f8944-9eb3-454e-b332-8ede5fd3768a">
 
